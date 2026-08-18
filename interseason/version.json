@@ -1,0 +1,18 @@
+{
+  "project": "WfGg Last War Inter-Saison",
+  "phase": 7,
+  "build": "2026-08-18",
+  "deploymentPath": "/interseason/",
+  "content": {
+    "events": 42,
+    "heroes": 31,
+    "languages": [
+      "fr",
+      "en",
+      "it",
+      "es"
+    ]
+  },
+  "compatibility": "Static HTML/CSS/JS/JSON; Cloudflare Pages; no build step",
+  "notes": "Phase 7 production hardening; portal return links; reversible deployment kit."
+}

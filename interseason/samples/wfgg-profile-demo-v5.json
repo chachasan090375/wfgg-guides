@@ -1,0 +1,346 @@
+{
+  "version": 5,
+  "roster": {
+    "kimberly": {
+      "owned": true,
+      "power": 26000000,
+      "level": 180,
+      "stars": 5,
+      "ew": 20,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 40,
+          "stars": 3
+        },
+        "dataChip": {
+          "level": 40,
+          "stars": 2
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "stetmann": {
+      "owned": true,
+      "power": 25150000,
+      "level": 180,
+      "stars": 5,
+      "ew": 20,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 35,
+          "stars": 3
+        },
+        "dataChip": {
+          "level": 35,
+          "stars": 2
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "marshall": {
+      "owned": true,
+      "power": 24300000,
+      "level": 180,
+      "stars": 5,
+      "ew": 20,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 30,
+          "stars": 3
+        },
+        "dataChip": {
+          "level": 30,
+          "stars": 2
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "dva": {
+      "owned": true,
+      "power": 23450000,
+      "level": 180,
+      "stars": 5,
+      "ew": 20,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 25,
+          "stars": 3
+        },
+        "dataChip": {
+          "level": 40,
+          "stars": 2
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "morrison": {
+      "owned": true,
+      "power": 22600000,
+      "level": 180,
+      "stars": 5,
+      "ew": 10,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 40,
+          "stars": 3
+        },
+        "dataChip": {
+          "level": 35,
+          "stars": 2
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "schuyler": {
+      "owned": true,
+      "power": 21750000,
+      "level": 180,
+      "stars": 5,
+      "ew": 10,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 35,
+          "stars": 1
+        },
+        "dataChip": {
+          "level": 30,
+          "stars": 1
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "tesla": {
+      "owned": true,
+      "power": 20900000,
+      "level": 180,
+      "stars": 4.4,
+      "ew": 10,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 30,
+          "stars": 1
+        },
+        "dataChip": {
+          "level": 40,
+          "stars": 1
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "swift": {
+      "owned": true,
+      "power": 20050000,
+      "level": 180,
+      "stars": 4.4,
+      "ew": 10,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 25,
+          "stars": 1
+        },
+        "dataChip": {
+          "level": 35,
+          "stars": 1
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "fiona": {
+      "owned": true,
+      "power": 19200000,
+      "level": 180,
+      "stars": 4.4,
+      "ew": 10,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 40,
+          "stars": 1
+        },
+        "dataChip": {
+          "level": 30,
+          "stars": 1
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "adam": {
+      "owned": true,
+      "power": 18350000,
+      "level": 180,
+      "stars": 4.4,
+      "ew": 10,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 35,
+          "stars": 1
+        },
+        "dataChip": {
+          "level": 40,
+          "stars": 1
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    },
+    "mason": {
+      "owned": true,
+      "power": 17500000,
+      "level": 180,
+      "stars": 4.4,
+      "ew": 10,
+      "skills": [
+        90,
+        90,
+        85,
+        80
+      ],
+      "gear": {
+        "railgun": {
+          "level": 30,
+          "stars": 1
+        },
+        "dataChip": {
+          "level": 35,
+          "stars": 1
+        },
+        "reactiveArmor": {
+          "level": 30,
+          "stars": 1
+        },
+        "radar": {
+          "level": 30,
+          "stars": 1
+        }
+      }
+    }
+  }
+}

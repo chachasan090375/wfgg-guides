@@ -1,0 +1,191 @@
+{
+  "version": "0.5.0-mobile-prep",
+  "verified": "2026-08-18",
+  "disclaimer": "WfGg comparative recommendation score. It is not the game's hidden power or damage formula.",
+  "officialMechanics": {
+    "frontRow": [
+      "defense"
+    ],
+    "backRow": [
+      "attack",
+      "support"
+    ],
+    "counterTriangle": [
+      "tank>missile",
+      "missile>aircraft",
+      "aircraft>tank"
+    ],
+    "sameTypeBonuses": {
+      "3": 0.05,
+      "4": 0.15,
+      "5": 0.2
+    }
+  },
+  "wantedBoss": {
+    "39": {
+      "type": "aircraft",
+      "matchingDamageBonus": 0.5,
+      "days": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "spawnTimes": [
+        "00:00",
+        "06:00",
+        "12:00",
+        "18:00"
+      ],
+      "durationSeconds": 90,
+      "maxAttemptsPerDay": 5,
+      "offensiveGearSlots": [
+        "railgun",
+        "dataChip"
+      ],
+      "benchmarkLineup": {
+        "front": [
+          "marshall",
+          "kimberly"
+        ],
+        "back": [
+          "dva",
+          "morrison",
+          "schuyler"
+        ],
+        "source": "dracgon.tech"
+      }
+    },
+    "64": {
+      "type": "missile",
+      "matchingDamageBonus": 0.5,
+      "days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "spawnTimes": [
+        "00:00",
+        "06:00",
+        "12:00",
+        "18:00"
+      ],
+      "durationSeconds": 90,
+      "maxAttemptsPerDay": 5,
+      "offensiveGearSlots": [
+        "railgun",
+        "dataChip"
+      ],
+      "benchmarkLineup": {
+        "front": [
+          "swift",
+          "tesla"
+        ],
+        "back": [
+          "adam",
+          "fiona",
+          "marshall"
+        ],
+        "source": "dracgon.tech"
+      }
+    },
+    "87": {
+      "type": "tank",
+      "matchingDamageBonus": 0.5,
+      "days": [
+        "Monday",
+        "Thursday"
+      ],
+      "spawnTimes": [
+        "00:00",
+        "06:00",
+        "12:00",
+        "18:00"
+      ],
+      "durationSeconds": 90,
+      "maxAttemptsPerDay": 5,
+      "offensiveGearSlots": [
+        "railgun",
+        "dataChip"
+      ],
+      "benchmarkLineup": {
+        "front": [
+          "marshall",
+          "tesla"
+        ],
+        "back": [
+          "kimberly",
+          "stetmann",
+          "mason"
+        ],
+        "source": "dracgon.tech"
+      }
+    }
+  },
+  "heuristic": {
+    "rarityBase": {
+      "UR": 100,
+      "SSR": 72,
+      "SR": 48
+    },
+    "tierMult": {
+      "SS": 1.16,
+      "S": 1.1,
+      "A": 1.05,
+      "B": 1.0,
+      "C": 0.94,
+      "D": 0.9
+    },
+    "fallback": {
+      "levelStep": 0.001,
+      "starStep": 0.08,
+      "exclusiveWeaponStep": 0.004,
+      "skillAverageAt100": 0.12,
+      "gearLevelAverageAt40": 0.1,
+      "gearStarsAverageAt5": 0.08
+    },
+    "positionFit": 0,
+    "maxCandidates": 18,
+    "gearQuality": {
+      "levelWeight": 1,
+      "starWeight": 40
+    },
+    "powerPolicy": "When displayed power is supplied it is used as the account-strength anchor; stars/skills/gear/EW are not multiplied into that power a second time. Detailed fields are used for transfer advice and fallback ranking when power is missing.",
+    "practicalSquadThreshold": 0.9,
+    "confidenceThresholds": {
+      "high": 0.75,
+      "medium": 0.4
+    },
+    "bossPolicy": "Wanted Boss is treated as a 90-second damage race. Defensive gear is not recommended as a damage transfer. Formation position remains displayed but does not receive an artificial score multiplier.",
+    "offensiveGearPlanner": {
+      "roleWeights": {
+        "attack": 1.0,
+        "support": 0.86,
+        "defense": 0.74
+      },
+      "policy": "Assign the strongest owned Railgun and Data Chip pieces to selected squad heroes ordered by WfGg offensive priority. This produces a transfer plan / allocation index only; it is not converted into claimed exact damage."
+    },
+    "codeComparison": "The same roster can be evaluated for Codes 39, 64 and 87 in one pass. Each code keeps its own matching-type bonus and gear transfer plan."
+  },
+  "sources": {
+    "officialSquad": "Last War Support — How to Build the Best Squad",
+    "wantedBoss": "dracgon.tech — Wanted Bosses",
+    "heroFallback": "Last War Vault / Last War Handbook; community heuristics only",
+    "officialSquadUrl": "https://firstfungroup.zendesk.com/hc/en-us/articles/44663561926163-How-to-Build-the-Best-Squad",
+    "wantedBossUrl": "https://dracgon.tech/en/code-bosses",
+    "wantedBossCrosscheckUrl": "https://www.lastwarvault.com/guides/general/wanted-boss-guide/",
+    "wantedBossPureOffense": "Last War Vault — Wanted Boss Guide (2026-03-16)",
+    "wantedBossPureOffenseUrl": "https://www.lastwarvault.com/guides/general/wanted-boss-guide/",
+    "wantedBossBenchmarkUrl": "https://dracgon.tech/en/code-bosses"
+  },
+  "calibration": {
+    "enabled": true,
+    "method": "relative-ratio",
+    "note": "A known real damage result is divided by the WfGg score of the exact 5-hero calibration squad. The ratio is then applied only as a relative estimate to alternative squads for the same Code."
+  },
+  "profileVersion": 5,
+  "phase6": {
+    "fastRosterInput": true,
+    "mobileActionDock": true,
+    "attackPrepSheet": true,
+    "catalogSearch": true,
+    "note": "UX consolidation only: no new claim of an exact hidden Last War damage formula."
+  }
+}

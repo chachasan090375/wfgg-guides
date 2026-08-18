@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "kimberly",
+    "name": "Kimberly",
+    "aliases": [],
+    "type": "tank",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "SS",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "williams",
+    "name": "Williams",
+    "aliases": [],
+    "type": "tank",
+    "role": "defense",
+    "rarity": "UR",
+    "fallbackTier": "S",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "murphy",
+    "name": "Murphy",
+    "aliases": [],
+    "type": "tank",
+    "role": "defense",
+    "rarity": "UR",
+    "fallbackTier": "S",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "marshall",
+    "name": "Marshall",
+    "aliases": [],
+    "type": "tank",
+    "role": "support",
+    "rarity": "UR",
+    "fallbackTier": "SS",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "stetmann",
+    "name": "Stetmann",
+    "aliases": [
+      "Stetman"
+    ],
+    "type": "tank",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "A",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "mason",
+    "name": "Mason",
+    "aliases": [],
+    "type": "tank",
+    "role": "attack",
+    "rarity": "SSR",
+    "fallbackTier": "S",
+    "promotableToURSeason": 1,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "violet",
+    "name": "Violet",
+    "aliases": [],
+    "type": "tank",
+    "role": "defense",
+    "rarity": "SSR",
+    "fallbackTier": "A",
+    "promotableToURSeason": 2,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "scarlett",
+    "name": "Scarlett",
+    "aliases": [],
+    "type": "tank",
+    "role": "defense",
+    "rarity": "SSR",
+    "fallbackTier": "B",
+    "promotableToURSeason": 3,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "monica",
+    "name": "Monica",
+    "aliases": [],
+    "type": "tank",
+    "role": "support",
+    "rarity": "SSR",
+    "fallbackTier": "B",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "richard",
+    "name": "Richard",
+    "aliases": [],
+    "type": "tank",
+    "role": "attack",
+    "rarity": "SSR",
+    "fallbackTier": "B",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "farhad",
+    "name": "Farhad",
+    "aliases": [],
+    "type": "tank",
+    "role": "attack",
+    "rarity": "SSR",
+    "fallbackTier": "C",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "gump",
+    "name": "Gump",
+    "aliases": [],
+    "type": "tank",
+    "role": "defense",
+    "rarity": "SR",
+    "fallbackTier": "C",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "loki",
+    "name": "Loki",
+    "aliases": [],
+    "type": "tank",
+    "role": "defense",
+    "rarity": "SR",
+    "fallbackTier": "C",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "dva",
+    "name": "DVA",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "SS",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "morrison",
+    "name": "Morrison",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "SS",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "carlie",
+    "name": "Carlie",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "defense",
+    "rarity": "UR",
+    "fallbackTier": "S",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "lucius",
+    "name": "Lucius",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "defense",
+    "rarity": "UR",
+    "fallbackTier": "S",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "schuyler",
+    "name": "Schuyler",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "S",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "sarah",
+    "name": "Sarah",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "support",
+    "rarity": "SSR",
+    "fallbackTier": "A",
+    "promotableToURSeason": 4,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "cage",
+    "name": "Cage",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "defense",
+    "rarity": "SSR",
+    "fallbackTier": "B",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "ambolt",
+    "name": "Ambolt",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "attack",
+    "rarity": "SR",
+    "fallbackTier": "C",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "maxwell",
+    "name": "Maxwell",
+    "aliases": [],
+    "type": "aircraft",
+    "role": "attack",
+    "rarity": "SSR",
+    "fallbackTier": "C",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "aliases": [],
+    "type": "missile",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "SS",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "fiona",
+    "name": "Fiona",
+    "aliases": [],
+    "type": "missile",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "SS",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "swift",
+    "name": "Swift",
+    "aliases": [],
+    "type": "missile",
+    "role": "attack",
+    "rarity": "UR",
+    "fallbackTier": "S",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "aliases": [],
+    "type": "missile",
+    "role": "defense",
+    "rarity": "UR",
+    "fallbackTier": "S",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "mcgregor",
+    "name": "McGregor",
+    "aliases": [],
+    "type": "missile",
+    "role": "defense",
+    "rarity": "UR",
+    "fallbackTier": "A",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "venom",
+    "name": "Venom",
+    "aliases": [],
+    "type": "missile",
+    "role": "attack",
+    "rarity": "SSR",
+    "fallbackTier": "B",
+    "promotableToURSeason": 5,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "elsa",
+    "name": "Elsa",
+    "aliases": [],
+    "type": "missile",
+    "role": "defense",
+    "rarity": "SSR",
+    "fallbackTier": "B",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "braz",
+    "name": "Braz",
+    "aliases": [
+      "Blaz"
+    ],
+    "type": "missile",
+    "role": "attack",
+    "rarity": "SSR",
+    "fallbackTier": "C",
+    "promotableToURSeason": 6,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  },
+  {
+    "id": "kane",
+    "name": "Kane",
+    "aliases": [],
+    "type": "missile",
+    "role": "attack",
+    "rarity": "SR",
+    "fallbackTier": "C",
+    "promotableToURSeason": null,
+    "inputSchema": {
+      "owned": false,
+      "displayedPower": null,
+      "stars": 0,
+      "exclusiveWeaponLevel": 0,
+      "skills": {
+        "skill1": 0,
+        "skill2": 0,
+        "skill3": 0,
+        "skill4": 0
+      },
+      "gear": {
+        "railgun": {
+          "level": 0,
+          "stars": 0
+        },
+        "dataChip": {
+          "level": 0,
+          "stars": 0
+        },
+        "reactiveArmor": {
+          "level": 0,
+          "stars": 0
+        },
+        "radar": {
+          "level": 0,
+          "stars": 0
+        }
+      },
+      "level": 0
+    },
+    "dataStatus": "community-structured"
+  }
+]

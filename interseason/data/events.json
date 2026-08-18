@@ -1,0 +1,1783 @@
+[
+  {
+    "id": "alliance_exercise",
+    "category": "boss_zombies",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Exercice d’Alliance",
+      "en": "Alliance Exercise",
+      "it": "Esercizio di alleanza",
+      "es": "Ejercicio de alianza"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "official",
+        "lang": "en",
+        "label": "Last War Support — Alliance Exercise rules",
+        "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/12265367912591-How-does-the-Alliance-Exercise-work-What-are-the-rules"
+      }
+    ],
+    "detailPages": {
+      "fr": "exercice-alliance.html",
+      "en": "alliance-exercise.html",
+      "it": "esercizio-alleanza.html",
+      "es": "ejercicio-alianza.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "marshal_guard",
+    "category": "boss_zombies",
+    "kind": "boss",
+    "parent": "alliance_exercise",
+    "interseason": true,
+    "names": {
+      "fr": "Garde du maréchal",
+      "en": "Marshal’s Guard",
+      "it": "Guardia del Maresciallo",
+      "es": "Guardia del Mariscal"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [
+        "Marshal's Guard"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "official",
+        "lang": "en",
+        "label": "Last War Support — Alliance Exercise rules (Marshal’s Guard)",
+        "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/12265367912591-How-does-the-Alliance-Exercise-work-What-are-the-rules"
+      }
+    ],
+    "detailPages": {
+      "fr": "exercice-alliance.html#marshal",
+      "en": "alliance-exercise.html#marshal",
+      "it": "esercizio-alleanza.html#marshal",
+      "es": "ejercicio-alianza.html#marshal"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "zombie_siege",
+    "category": "boss_zombies",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Carnage de Zombies",
+      "en": "Zombie Siege",
+      "it": "Assedio agli zombi",
+      "es": "Asedio zombi"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [
+        "Carnage de Zombies",
+        "Siège de Zombies"
+      ],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "official",
+        "lang": "fr",
+        "label": "Last War Centre d’aide — Carnage de Zombies",
+        "url": "https://firstfungroup.zendesk.com/hc/fr/sections/12260409530767-Carnage-de-Zombies"
+      },
+      {
+        "level": "official",
+        "lang": "en",
+        "label": "Last War Support — Zombie Siege",
+        "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/43959016139411-Update-Highlight"
+      }
+    ],
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Support + community guides 2026",
+      "confidence": "official-name-and-scheduling/community-mechanics"
+    },
+    "detailPages": {
+      "fr": "carnage-zombies.html",
+      "en": "zombie-siege.html",
+      "it": "assedio-zombi.html",
+      "es": "asedio-zombi.html"
+    }
+  },
+  {
+    "id": "zombie_invasion",
+    "category": "boss_zombies",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Invasion de Zombies",
+      "en": "Zombie Invasion",
+      "it": "Invasione di zombie",
+      "es": "Invasión Zombi"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [
+        "Zombies dorés"
+      ],
+      "en": [
+        "Golden Zombies"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-mixed",
+    "evidence": {
+      "es": "App Store ES, version 1.0.313 (26 Sep 2025)"
+    },
+    "detailPages": {
+      "fr": "invasion-zombies.html",
+      "en": "zombie-invasion.html",
+      "it": "invasione-zombie.html",
+      "es": "invasion-zombi.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "glacieradon",
+    "category": "boss_zombies",
+    "kind": "boss",
+    "interseason": true,
+    "names": {
+      "fr": "Glacieradon",
+      "en": "Glacieradon",
+      "it": "Glacieradon",
+      "es": "Glacieradon"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "verification": {
+      "checked": "2026-08-17"
+    },
+    "detailPages": {
+      "fr": "glacieradon.html",
+      "en": "glacieradon.html",
+      "it": "glacieradon.html",
+      "es": "glacieradon.html"
+    },
+    "availability": {
+      "scope": "season-specific",
+      "note": "Primarily documented in Season 2; not a standard Season 6 off-season event."
+    }
+  },
+  {
+    "id": "generals_trial",
+    "category": "boss_zombies",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Épreuve du général",
+      "en": "General’s Trial",
+      "it": "Prova del generale",
+      "es": "Prueba del general"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [
+        "General Test"
+      ],
+      "it": [
+        "Test generale"
+      ],
+      "es": [
+        "Prueba general"
+      ]
+    },
+    "sourceLevel": "community",
+    "verification": {
+      "checked": "2026-08-17"
+    },
+    "detailPages": {
+      "fr": "epreuve-general.html",
+      "en": "generals-trial.html",
+      "it": "prova-generale.html",
+      "es": "prueba-general.html"
+    }
+  },
+  {
+    "id": "sky_predator",
+    "category": "boss_zombies",
+    "kind": "boss",
+    "interseason": true,
+    "names": {
+      "fr": "Prédateur céleste",
+      "en": "Sky Predator",
+      "it": "Predatore celeste",
+      "es": "Depredador celeste"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Vault 2026 + community corroboration",
+      "confidence": "community-current"
+    },
+    "detailPages": {
+      "fr": "front-celeste-predateur.html",
+      "en": "sky-battlefront-predator.html",
+      "it": "fronte-celeste-predatore.html",
+      "es": "frente-celeste-depredador.html"
+    }
+  },
+  {
+    "id": "doomsday",
+    "category": "boss_zombies",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Jour du Jugement Dernier",
+      "en": "Doomsday",
+      "it": "Giorno del Giudizio",
+      "es": "El Día del Juicio Final"
+    },
+    "status": {
+      "fr": "review",
+      "en": "locked",
+      "it": "review",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [
+        "Doomsday"
+      ],
+      "en": [],
+      "it": [
+        "Doomsday"
+      ],
+      "es": [
+        "Doomsday"
+      ]
+    },
+    "sourceLevel": "official-appstore-en-es",
+    "evidence": {
+      "en": "App Store EN, version 1.0.322 (3 Dec 2025)",
+      "es": "App Store ES, version 1.0.322 (3 Dec 2025)"
+    },
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Tutorial",
+      "confidence": "community-current"
+    },
+    "detailPages": {
+      "fr": "doomsday-doom-walkers.html",
+      "en": "doomsday-doom-walkers.html",
+      "it": "doomsday-doom-walkers.html",
+      "es": "doomsday-doom-walkers.html"
+    }
+  },
+  {
+    "id": "doom_walkers",
+    "category": "boss_zombies",
+    "kind": "pve",
+    "interseason": true,
+    "names": {
+      "fr": "Doom Walkers",
+      "en": "Doom Walkers",
+      "it": "Doom Walkers",
+      "es": "Caminantes Fatales"
+    },
+    "status": {
+      "fr": "review",
+      "en": "locked",
+      "it": "review",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [
+        "Doomsday"
+      ],
+      "en": [],
+      "it": [],
+      "es": [
+        "Doom Walkers"
+      ]
+    },
+    "sourceLevel": "official-appstore-en-es",
+    "evidence": {
+      "en": "App Store EN, version 1.0.322 (3 Dec 2025)",
+      "es": "App Store ES, version 1.0.322 (3 Dec 2025)"
+    },
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Tutorial + localized official notes for ES naming",
+      "confidence": "mixed"
+    },
+    "detailPages": {
+      "fr": "doomsday-doom-walkers.html",
+      "en": "doomsday-doom-walkers.html",
+      "it": "doomsday-doom-walkers.html",
+      "es": "doomsday-doom-walkers.html"
+    }
+  },
+  {
+    "id": "rampage_boss",
+    "category": "boss_zombies",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Boss Déchaîné",
+      "en": "Rampage Boss",
+      "it": "Rampage Boss",
+      "es": "Jefes del Alboroto"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "locked",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [
+        "Boss déchaînés"
+      ],
+      "en": [
+        "Bosses Gone Wild"
+      ],
+      "it": [
+        "Capi scatenati"
+      ],
+      "es": [
+        "Jefes enloquecidos"
+      ]
+    },
+    "sourceLevel": "official-appstore-2026-07",
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "fr",
+        "label": "App Store FR — version 1.0.353",
+        "url": "https://apps.apple.com/fr/app/last-war-survival/id6448786147"
+      },
+      {
+        "level": "official-localized-app",
+        "lang": "it",
+        "label": "App Store IT — version 1.0.353",
+        "url": "https://apps.apple.com/it/app/last-war-survival/id6448786147"
+      },
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES — version 1.0.353",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
+    "verifiedAt": "2026-08",
+    "detailPages": {
+      "fr": "boss-dechaine.html",
+      "en": "rampage-boss.html",
+      "it": "rampage-boss.html",
+      "es": "jefes-alboroto.html"
+    },
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Apple App Store localized Last War version history",
+      "confidence": "official-localized"
+    }
+  },
+  {
+    "id": "wanted_boss",
+    "category": "wanted_codes",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Boss recherché : codes 39 / 64 / 87",
+      "en": "Wanted Boss: Code 39 / 64 / 87",
+      "it": "Boss ricercato: codice 39 / 64 / 87",
+      "es": "Jefe buscado: código 39 / 64 / 87"
+    },
+    "status": {
+      "fr": "review",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [
+        "Cercasi capo: codice 39 / 64 / 87"
+      ],
+      "es": [
+        "Se busca jefe: código 39 / 64 / 87"
+      ]
+    },
+    "sourceLevel": "community-current",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "dracgon.tech — Wanted Bosses",
+        "url": "https://dracgon.tech/en/code-bosses"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "Last War Vault — Wanted Boss Guide",
+        "url": "https://www.lastwarvault.com/guides/general/wanted-boss-guide/"
+      }
+    ],
+    "detailPages": {
+      "fr": "boss-recherche.html",
+      "en": "wanted-boss.html",
+      "it": "boss-ricercato.html",
+      "es": "jefe-buscado.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "wanted_code_39",
+    "category": "wanted_codes",
+    "kind": "boss_variant",
+    "parent": "wanted_boss",
+    "interseason": true,
+    "bossType": "aircraft",
+    "bonusDamage": 0.5,
+    "names": {
+      "fr": "Code 39 — Avions",
+      "en": "Code 39 — Aircraft",
+      "it": "Codice 39 — Aeromobili",
+      "es": "Código 39 — Aeronaves"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community-current",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "dracgon.tech — Wanted Bosses",
+        "url": "https://dracgon.tech/en/code-bosses"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "Last War Vault — Wanted Boss Guide",
+        "url": "https://www.lastwarvault.com/guides/general/wanted-boss-guide/"
+      }
+    ],
+    "detailPages": {
+      "fr": "boss-recherche.html#code39",
+      "en": "wanted-boss.html#code39",
+      "it": "boss-ricercato.html#code39",
+      "es": "jefe-buscado.html#code39"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "wanted_code_64",
+    "category": "wanted_codes",
+    "kind": "boss_variant",
+    "parent": "wanted_boss",
+    "interseason": true,
+    "bossType": "missile",
+    "bonusDamage": 0.5,
+    "names": {
+      "fr": "Code 64 — Missiles",
+      "en": "Code 64 — Missile",
+      "it": "Codice 64 — Missili",
+      "es": "Código 64 — Misiles"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community-current",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "dracgon.tech — Wanted Bosses",
+        "url": "https://dracgon.tech/en/code-bosses"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "Last War Vault — Wanted Boss Guide",
+        "url": "https://www.lastwarvault.com/guides/general/wanted-boss-guide/"
+      }
+    ],
+    "detailPages": {
+      "fr": "boss-recherche.html#code64",
+      "en": "wanted-boss.html#code64",
+      "it": "boss-ricercato.html#code64",
+      "es": "jefe-buscado.html#code64"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "wanted_code_87",
+    "category": "wanted_codes",
+    "kind": "boss_variant",
+    "parent": "wanted_boss",
+    "interseason": true,
+    "bossType": "tank",
+    "bonusDamage": 0.5,
+    "names": {
+      "fr": "Code 87 — Tanks",
+      "en": "Code 87 — Tanks",
+      "it": "Codice 87 — Carri armati",
+      "es": "Código 87 — Tanques"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community-current",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "dracgon.tech — Wanted Bosses",
+        "url": "https://dracgon.tech/en/code-bosses"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "en",
+        "label": "Last War Vault — Wanted Boss Guide",
+        "url": "https://www.lastwarvault.com/guides/general/wanted-boss-guide/"
+      }
+    ],
+    "detailPages": {
+      "fr": "boss-recherche.html#code87",
+      "en": "wanted-boss.html#code87",
+      "it": "boss-ricercato.html#code87",
+      "es": "jefe-buscado.html#code87"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "capitol",
+    "category": "capitol_warzone",
+    "kind": "mechanic_event",
+    "interseason": true,
+    "names": {
+      "fr": "Capitole",
+      "en": "Capitol",
+      "it": "Campidoglio",
+      "es": "Capitolio"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [
+        "Conquête du Capitole"
+      ],
+      "en": [
+        "Capitol Conquest"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "official",
+        "lang": "en",
+        "label": "Last War Support — How to Capture Cities and the Capitol",
+        "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/44419492097683-How-to-Capture-Cities-and-the-Capitol"
+      }
+    ],
+    "detailPages": {
+      "fr": "capitole.html",
+      "en": "capitol.html",
+      "it": "campidoglio.html",
+      "es": "capitolio.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "warzone_duel",
+    "category": "capitol_warzone",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Duel de Zone de Guerre",
+      "en": "Warzone Duel",
+      "it": "Duello della Zona di Guerra",
+      "es": "Duelo de Zona de Guerra"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [
+        "Warzone Duels"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "official",
+        "lang": "en",
+        "label": "Last War Support — Warzone Duel Guide",
+        "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/44311355939987-Warzone-Duel-Guide"
+      },
+      {
+        "level": "official",
+        "lang": "fr",
+        "label": "Last War Support — Guide du Duel de Zone de Guerre",
+        "url": "https://firstfungroup.zendesk.com/hc/fr/articles/44311355939987-Guide-du-Duel-de-Zone-de-Guerre"
+      }
+    ],
+    "detailPages": {
+      "fr": "guerre-capitole.html",
+      "en": "capitol-war.html",
+      "it": "guerra-campidoglio.html",
+      "es": "guerra-capitolio.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "capitol_war",
+    "category": "capitol_warzone",
+    "kind": "event_phase",
+    "parent": "warzone_duel",
+    "interseason": true,
+    "names": {
+      "fr": "Guerre du Capitole",
+      "en": "Capitol War",
+      "it": "Guerra del Campidoglio",
+      "es": "Guerra del Capitolio"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "verifiedAt": "2026-08",
+    "evidence": [
+      {
+        "level": "official",
+        "lang": "en",
+        "label": "Last War Support — Warzone Duel Guide",
+        "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/44311355939987-Warzone-Duel-Guide"
+      },
+      {
+        "level": "official",
+        "lang": "fr",
+        "label": "Last War Support — Guide du Duel de Zone de Guerre",
+        "url": "https://firstfungroup.zendesk.com/hc/fr/articles/44311355939987-Guide-du-Duel-de-Zone-de-Guerre"
+      }
+    ],
+    "detailPages": {
+      "fr": "guerre-capitole.html#war",
+      "en": "capitol-war.html#war",
+      "it": "guerra-campidoglio.html#war",
+      "es": "guerra-capitolio.html#war"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "desert_storm",
+    "category": "battlefields_pvp",
+    "kind": "battlefield",
+    "interseason": true,
+    "names": {
+      "fr": "Champ de Bataille Tempête du Désert",
+      "en": "Desert Storm Battlefield",
+      "it": "Campo di Battaglia Tempesta nel Deserto",
+      "es": "Campo de Batalla Tormenta del Desierto"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [
+        "Tempête du désert"
+      ],
+      "en": [],
+      "it": [
+        "Tempesta nel deserto"
+      ],
+      "es": [
+        "Tormenta del desierto"
+      ]
+    },
+    "sourceLevel": "official-mixed",
+    "evidence": {
+      "es": "App Store ES, version 1.0.311 (17 Sep 2025)"
+    },
+    "detailPages": {
+      "fr": "tempete-desert.html",
+      "en": "desert-storm.html",
+      "it": "tempesta-deserto.html",
+      "es": "tormenta-desierto.html"
+    },
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Support FR/EN + Apple ES",
+      "confidence": "official-partial-localized"
+    }
+  },
+  {
+    "id": "meteorite_iron_war",
+    "category": "battlefields_pvp",
+    "kind": "battlefield",
+    "interseason": true,
+    "names": {
+      "fr": "Guerre du Fer Météoritique",
+      "en": "Meteorite Iron War",
+      "it": "Guerra del Ferro Meteorico",
+      "es": "Guerra del Hierro Meteorítico"
+    },
+    "status": {
+      "fr": "review",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-en-community-localizations",
+    "evidence": {
+      "en": "App Store EN, version 1.0.319 (12 Nov 2025)"
+    },
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Support correspondent reports + 2026 community guides",
+      "confidence": "mixed-current"
+    },
+    "detailPages": {
+      "fr": "guerre-fer-meteoritique.html",
+      "en": "meteorite-iron-war.html",
+      "it": "guerra-ferro-meteorico.html",
+      "es": "guerra-hierro-meteoritico.html"
+    }
+  },
+  {
+    "id": "sky_battlefront",
+    "category": "battlefields_pvp",
+    "kind": "battlefield",
+    "interseason": true,
+    "names": {
+      "fr": "Front de bataille céleste",
+      "en": "Sky Battlefront",
+      "it": "Fronte di Battaglia Celeste",
+      "es": "Frente de Batalla Celeste"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Vault 2026 + community corroboration",
+      "confidence": "community-current"
+    },
+    "detailPages": {
+      "fr": "front-celeste-predateur.html",
+      "en": "sky-battlefront-predator.html",
+      "it": "fronte-celeste-predatore.html",
+      "es": "frente-celeste-depredador.html"
+    }
+  },
+  {
+    "id": "winter_storm_battlefield",
+    "category": "battlefields_pvp",
+    "kind": "battlefield",
+    "interseason": true,
+    "names": {
+      "fr": "Champ de Bataille de la Tempête de l’Hiver",
+      "en": "Winter Storm Battlefield",
+      "it": "Campo di Battaglia Tempesta Invernale",
+      "es": "Campo de Batalla Tormenta de Invierno"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "locked",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": [
+        "Campo de Batalla de Tormenta Invernal"
+      ]
+    },
+    "sourceLevel": "official-localized-app",
+    "verifiedAt": "2026-08",
+    "detailPages": {
+      "fr": "tempete-hiver.html",
+      "en": "winter-storm.html",
+      "it": "tempesta-invernale.html",
+      "es": "tormenta-invernal.html"
+    },
+    "schedule": {
+      "regular": [
+        "Saturday"
+      ],
+      "offseason": [
+        "Monday",
+        "Saturday"
+      ],
+      "serverWindows": [
+        "02:00–04:00",
+        "09:00–11:00",
+        "19:00–21:00"
+      ]
+    },
+    "evidence": [
+      {
+        "level": "official",
+        "lang": "en",
+        "label": "Last War Support — Winter Storm Battlefield",
+        "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/44419816746259-Winter-Storm-Battlefield"
+      }
+    ],
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Apple App Store localized Last War version history",
+      "confidence": "official-localized",
+      "note_es": "Current localized App Store wording checked 2026-08-17; previous localized variant retained as alias."
+    }
+  },
+  {
+    "id": "zombie_rush_5v5",
+    "category": "battlefields_pvp",
+    "kind": "battlefield",
+    "interseason": true,
+    "names": {
+      "fr": "Ruée de Zombies 5v5",
+      "en": "Zombie Rush 5v5",
+      "it": "Corsa degli Zombie 5v5",
+      "es": "Carrera Zombi 5v5"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "verification": {
+      "checked": "2026-08-17"
+    },
+    "detailPages": {
+      "fr": "ruee-zombies-5v5.html",
+      "en": "zombie-rush-5v5.html",
+      "it": "corsa-zombie-5v5.html",
+      "es": "carrera-zombi-5v5.html"
+    },
+    "availability": {
+      "scope": "community-recurring",
+      "note": "Community-documented recurring 5v5; exact schedule and localized name require in-game confirmation."
+    }
+  },
+  {
+    "id": "arms_race",
+    "category": "alliance_recurring",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Course aux armes",
+      "en": "Arms Race",
+      "it": "Corsa agli armamenti",
+      "es": "Carrera de Armas"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": [
+        "Carrera armamentística"
+      ]
+    },
+    "sourceLevel": "official-mixed",
+    "evidence": {
+      "es": "App Store ES, version 1.0.320 (19 Nov 2025)"
+    },
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Support naming + 2026 community schedule guides",
+      "confidence": "official-partial/community-mechanics"
+    },
+    "detailPages": {
+      "fr": "course-aux-armes.html",
+      "en": "arms-race.html",
+      "it": "corsa-armamenti.html",
+      "es": "carrera-armas.html"
+    }
+  },
+  {
+    "id": "frontline_breakthrough",
+    "category": "alliance_recurring",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Percée de première ligne",
+      "en": "Frontline Breakthrough",
+      "it": "Sfondamento in prima linea",
+      "es": "Avance de primera línea"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [
+        "Sfruttamento in prima linea"
+      ],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "2026 community guides",
+      "confidence": "community-current"
+    },
+    "detailPages": {
+      "fr": "percee-premiere-ligne.html",
+      "en": "frontline-breakthrough.html",
+      "it": "sfondamento-prima-linea.html",
+      "es": "avance-primera-linea.html"
+    }
+  },
+  {
+    "id": "ghost_ops",
+    "category": "alliance_recurring",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Opérations Fantômes",
+      "en": "Ghost Ops",
+      "it": "Operazioni fantasma",
+      "es": "Operaciones fantasma"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Support FR/EN + community guides 2026",
+      "confidence": "official-partial-localized"
+    },
+    "detailPages": {
+      "fr": "operations-fantomes.html",
+      "en": "ghost-ops.html",
+      "it": "operazioni-fantasma.html",
+      "es": "operaciones-fantasma.html"
+    }
+  },
+  {
+    "id": "secret_mobile",
+    "category": "alliance_recurring",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Escouade Mobile Secrète",
+      "en": "Secret Mobile Squad",
+      "it": "Squadra Mobile Segreta",
+      "es": "Escuadrón Móvil Secreto"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "locked",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-appstore-and-support",
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "fr",
+        "label": "App Store FR — versions 1.0.355/356",
+        "url": "https://apps.apple.com/fr/app/last-war-survival/id6448786147"
+      },
+      {
+        "level": "official-localized-app",
+        "lang": "it",
+        "label": "App Store IT — versions 1.0.355/356",
+        "url": "https://apps.apple.com/it/app/last-war-survival/id6448786147"
+      },
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES — versions 1.0.355/356",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
+    "verifiedAt": "2026-08",
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Support + localized version history",
+      "confidence": "official-localized"
+    },
+    "detailPages": {
+      "fr": "escouade-mobile-secrete.html",
+      "en": "secret-mobile-squad.html",
+      "it": "squadra-mobile-segreta.html",
+      "es": "escuadron-movil-secreto.html"
+    }
+  },
+  {
+    "id": "alliance_duel",
+    "category": "alliance_recurring",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Duel des alliances",
+      "en": "Alliance Duel",
+      "it": "Duello dell’Alleanza",
+      "es": "Duelo de alianzas"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [
+        "Duel d’Alliance",
+        "VS"
+      ],
+      "en": [
+        "VS Alliance Duel",
+        "VS"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-fr-en",
+    "detailPages": {
+      "fr": "duel-alliances.html",
+      "en": "alliance-duel.html",
+      "it": "duello-alleanze.html",
+      "es": "duelo-alianzas.html"
+    },
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Support FR/EN",
+      "confidence": "official-partial-localized"
+    }
+  },
+  {
+    "id": "total_mobilization",
+    "category": "markets_temporary",
+    "kind": "hot_deal",
+    "interseason": true,
+    "names": {
+      "fr": "Mobilisation totale",
+      "en": "Total Mobilization",
+      "it": "Mobilitazione totale",
+      "es": "Movilización total"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "bounty_hunter",
+    "category": "markets_temporary",
+    "kind": "hot_deal",
+    "interseason": true,
+    "names": {
+      "fr": "Chasseur de primes",
+      "en": "Bounty Hunter",
+      "it": "Cacciatore di taglie",
+      "es": "Cazarrecompensas"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "glittering_market",
+    "category": "markets_temporary",
+    "kind": "hot_deal",
+    "interseason": true,
+    "names": {
+      "fr": "Marché Scintillant",
+      "en": "Glittering Market",
+      "it": "Mercato scintillante",
+      "es": "Mercado reluciente"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [
+        "Mercato dei Brillantini"
+      ],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "bullseye",
+    "category": "markets_temporary",
+    "kind": "hot_deal",
+    "interseason": true,
+    "names": {
+      "fr": "Butin dans le mille",
+      "en": "Bullseye Loot",
+      "it": "Bottino centro perfetto",
+      "es": "Botín en la diana"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "ammo_bonanza",
+    "category": "markets_temporary",
+    "kind": "hot_deal",
+    "interseason": true,
+    "names": {
+      "fr": "Bonanza de munitions",
+      "en": "Ammo Bonanza",
+      "it": "Bonanza di munizioni",
+      "es": "Bonanza de munición"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "black_market",
+    "category": "markets_temporary",
+    "kind": "market",
+    "interseason": true,
+    "names": {
+      "fr": "Marché noir",
+      "en": "Black Market",
+      "it": "Mercato nero",
+      "es": "Mercado negro"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "locked",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-mixed",
+    "evidence": {
+      "it": "App Store IT, version 1.0.335 (19 Mar 2026)",
+      "es": "App Store ES, version 1.0.335 (19 Mar 2026)"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    },
+    "detailPages": {
+      "fr": "marche-noir.html",
+      "en": "black-market.html",
+      "it": "mercato-nero.html",
+      "es": "mercado-negro.html"
+    },
+    "availability": {
+      "scope": "recurring-post-season",
+      "note": "Recurring celebration/off-season feature; schedule depends on edition."
+    }
+  },
+  {
+    "id": "champion_duel",
+    "category": "interseason",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Duel de Champions",
+      "en": "Champion Duel",
+      "it": "Duello dei Campioni",
+      "es": "Duelo de Campeón"
+    },
+    "status": {
+      "fr": "locked",
+      "en": "locked",
+      "it": "locked",
+      "es": "locked"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-localized-app",
+    "verifiedAt": "2026-08",
+    "verification": {
+      "checked": "2026-08-17"
+    },
+    "detailPages": {
+      "fr": "duel-champions.html",
+      "en": "champion-duel.html",
+      "it": "duello-campioni.html",
+      "es": "duelo-campeon.html"
+    },
+    "availability": {
+      "scope": "recurring-post-season",
+      "note": "Recurring celebration/off-season feature; schedule depends on edition."
+    }
+  },
+  {
+    "id": "age_of_oil",
+    "category": "interseason",
+    "kind": "system_event",
+    "interseason": true,
+    "names": {
+      "fr": "Âge du pétrole",
+      "en": "Age of Oil",
+      "it": "Età del petrolio",
+      "es": "Era del petróleo"
+    },
+    "status": {
+      "fr": "review",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "mixed",
+    "verification": {
+      "checked": "2026-08-17"
+    },
+    "detailPages": {
+      "fr": "age-petrole.html",
+      "en": "age-of-oil.html",
+      "it": "eta-petrolio.html",
+      "es": "era-petroleo.html"
+    },
+    "availability": {
+      "scope": "post-season-2-progression",
+      "note": "Unlocked after Season 2 and then becomes permanent progression; not restarted after Season 6."
+    }
+  },
+  {
+    "id": "transfer_surge",
+    "category": "interseason",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Vague de transferts",
+      "en": "Transfer Surge",
+      "it": "Ondata di trasferimenti",
+      "es": "Oleada de transferencias"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "verification": {
+      "checked": "2026-08-17",
+      "source": "Last War Tutorial current transfer guide",
+      "confidence": "community-current; client verification required"
+    },
+    "detailPages": {
+      "fr": "vague-transferts.html",
+      "en": "transfer-surge.html",
+      "it": "ondata-trasferimenti.html",
+      "es": "oleada-transferencias.html"
+    }
+  },
+  {
+    "id": "console_contest",
+    "category": "interseason",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Concours de Console",
+      "en": "Console Contest",
+      "it": "Concorso Console",
+      "es": "Concurso de Consola"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "concours-console.html",
+      "en": "console-contest.html",
+      "it": "concorso-console.html",
+      "es": "concurso-consola.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "energy_loot_quest",
+    "category": "interseason",
+    "kind": "event",
+    "interseason": true,
+    "names": {
+      "fr": "Quête de butin énergétique",
+      "en": "Energy Loot Quest",
+      "it": "Missione bottino energetico",
+      "es": "Misión de botín energético"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "moonstone_blessing",
+    "category": "interseason",
+    "kind": "event_pass",
+    "interseason": true,
+    "names": {
+      "fr": "Bénédiction de pierre de lune",
+      "en": "Moonstone Blessing",
+      "it": "Benedizione della pietra lunare",
+      "es": "Bendición de piedra lunar"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "hero_growth_bp",
+    "category": "interseason",
+    "kind": "battle_pass",
+    "interseason": true,
+    "names": {
+      "fr": "Pass de croissance des héros",
+      "en": "Hero Growth Battle Pass",
+      "it": "Pass crescita eroi",
+      "es": "Pase de crecimiento de héroes"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [
+        "Hero Growth BP"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "drone_training_bp",
+    "category": "interseason",
+    "kind": "battle_pass",
+    "interseason": true,
+    "names": {
+      "fr": "Pass d’entraînement du drone",
+      "en": "Drone Training Pass",
+      "it": "Pass addestramento drone",
+      "es": "Pase de entrenamiento del dron"
+    },
+    "status": {
+      "fr": "review",
+      "en": "locked",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [
+        "Drone Training BP"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "official-en",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  },
+  {
+    "id": "overlord_training_bp",
+    "category": "interseason",
+    "kind": "battle_pass",
+    "interseason": true,
+    "names": {
+      "fr": "Pass d’entraînement du Suzerain",
+      "en": "Overlord Training Pass",
+      "it": "Pass addestramento Overlord",
+      "es": "Pase de entrenamiento del Overlord"
+    },
+    "status": {
+      "fr": "review",
+      "en": "review",
+      "it": "review",
+      "es": "review"
+    },
+    "aliases": {
+      "fr": [],
+      "en": [
+        "Overlord Training BP"
+      ],
+      "it": [],
+      "es": []
+    },
+    "sourceLevel": "community",
+    "detailPages": {
+      "fr": "rotation-inter-saison.html",
+      "en": "offseason-rotation.html",
+      "it": "rotazione-interstagione.html",
+      "es": "rotacion-intertemporada.html"
+    },
+    "verification": {
+      "checked": "2026-08-17"
+    }
+  }
+]
