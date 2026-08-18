@@ -30,6 +30,18 @@
         "lang": "en",
         "label": "Last War Support — Alliance Exercise rules",
         "url": "https://firstfungroup.zendesk.com/hc/en-us/articles/12265367912591-How-does-the-Alliance-Exercise-work-What-are-the-rules"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "it",
+        "label": "Last War Guide IT — Esercizio di alleanza",
+        "url": "https://lastwarguide.net/it/eventi/esercizio-di-alleanza"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "es",
+        "label": "Last War Guide ES — Ejercicio de alianza",
+        "url": "https://lastwarguide.net/es/eventos/ejercicio-de-alianza"
       }
     ],
     "detailPages": {
@@ -170,9 +182,14 @@
       "es": []
     },
     "sourceLevel": "official-mixed",
-    "evidence": {
-      "es": "App Store ES, version 1.0.313 (26 Sep 2025)"
-    },
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES, version 1.0.313 (26 Sep 2025)",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
     "detailPages": {
       "fr": "invasion-zombies.html",
       "en": "zombie-invasion.html",
@@ -219,7 +236,8 @@
     "availability": {
       "scope": "season-specific",
       "note": "Primarily documented in Season 2; not a standard Season 6 off-season event."
-    }
+    },
+    "evidence": []
   },
   {
     "id": "generals_trial",
@@ -259,7 +277,21 @@
       "en": "generals-trial.html",
       "it": "prova-generale.html",
       "es": "prueba-general.html"
-    }
+    },
+    "evidence": [
+      {
+        "level": "community-crosschecked",
+        "lang": "it",
+        "label": "Last War Guide IT — Test generale",
+        "url": "https://lastwarguide.net/it/eventi/test-generale"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "es",
+        "label": "Last War Guide ES — Prueba general",
+        "url": "https://lastwarguide.net/es/eventos/prueba-general"
+      }
+    ]
   },
   {
     "id": "sky_predator",
@@ -295,7 +327,8 @@
       "en": "sky-battlefront-predator.html",
       "it": "fronte-celeste-predatore.html",
       "es": "frente-celeste-depredador.html"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "doomsday",
@@ -327,10 +360,20 @@
       ]
     },
     "sourceLevel": "official-appstore-en-es",
-    "evidence": {
-      "en": "App Store EN, version 1.0.322 (3 Dec 2025)",
-      "es": "App Store ES, version 1.0.322 (3 Dec 2025)"
-    },
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "en",
+        "label": "App Store EN, version 1.0.322 (3 Dec 2025)",
+        "url": "https://apps.apple.com/us/app/last-war-survival/id6448786147"
+      },
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES, version 1.0.322 (3 Dec 2025)",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
     "verification": {
       "checked": "2026-08-17",
       "source": "Last War Tutorial",
@@ -371,10 +414,20 @@
       ]
     },
     "sourceLevel": "official-appstore-en-es",
-    "evidence": {
-      "en": "App Store EN, version 1.0.322 (3 Dec 2025)",
-      "es": "App Store ES, version 1.0.322 (3 Dec 2025)"
-    },
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "en",
+        "label": "App Store EN, version 1.0.322 (3 Dec 2025)",
+        "url": "https://apps.apple.com/us/app/last-war-survival/id6448786147"
+      },
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES, version 1.0.322 (3 Dec 2025)",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
     "verification": {
       "checked": "2026-08-17",
       "source": "Last War Tutorial + localized official notes for ES naming",
@@ -473,10 +526,12 @@
       "fr": [],
       "en": [],
       "it": [
-        "Cercasi capo: codice 39 / 64 / 87"
+        "Cercasi capo: codice 39 / 64 / 87",
+        "Cercasi capo: codice 39/64/87"
       ],
       "es": [
-        "Se busca jefe: código 39 / 64 / 87"
+        "Se busca jefe: código 39 / 64 / 87",
+        "Se busca jefe: código 39/64/87"
       ]
     },
     "sourceLevel": "community-current",
@@ -493,6 +548,18 @@
         "lang": "en",
         "label": "Last War Vault — Wanted Boss Guide",
         "url": "https://www.lastwarvault.com/guides/general/wanted-boss-guide/"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "it",
+        "label": "Last War Guide IT — Cercasi capo: codice 39/64/87",
+        "url": "https://lastwarguide.net/it/eventi/cercasi-capo-codice-39-64-87"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "es",
+        "label": "Last War Guide ES — Se busca jefe: código 39/64/87",
+        "url": "https://lastwarguide.net/es/eventos/se-busca-jefe-codigo-39-64-87"
       }
     ],
     "detailPages": {
@@ -839,9 +906,14 @@
       ]
     },
     "sourceLevel": "official-mixed",
-    "evidence": {
-      "es": "App Store ES, version 1.0.311 (17 Sep 2025)"
-    },
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES, version 1.0.311 (17 Sep 2025)",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
     "detailPages": {
       "fr": "tempete-desert.html",
       "en": "desert-storm.html",
@@ -878,9 +950,14 @@
       "es": []
     },
     "sourceLevel": "official-en-community-localizations",
-    "evidence": {
-      "en": "App Store EN, version 1.0.319 (12 Nov 2025)"
-    },
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "en",
+        "label": "App Store EN, version 1.0.319 (12 Nov 2025)",
+        "url": "https://apps.apple.com/us/app/last-war-survival/id6448786147"
+      }
+    ],
     "verification": {
       "checked": "2026-08-17",
       "source": "Last War Support correspondent reports + 2026 community guides",
@@ -927,7 +1004,8 @@
       "en": "sky-battlefront-predator.html",
       "it": "fronte-celeste-predatore.html",
       "es": "frente-celeste-depredador.html"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "winter_storm_battlefield",
@@ -1027,7 +1105,8 @@
     "availability": {
       "scope": "community-recurring",
       "note": "Community-documented recurring 5v5; exact schedule and localized name require in-game confirmation."
-    }
+    },
+    "evidence": []
   },
   {
     "id": "arms_race",
@@ -1055,9 +1134,14 @@
       ]
     },
     "sourceLevel": "official-mixed",
-    "evidence": {
-      "es": "App Store ES, version 1.0.320 (19 Nov 2025)"
-    },
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES, version 1.0.320 (19 Nov 2025)",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
     "verification": {
       "checked": "2026-08-17",
       "source": "Last War Support naming + 2026 community schedule guides",
@@ -1106,7 +1190,21 @@
       "en": "frontline-breakthrough.html",
       "it": "sfondamento-prima-linea.html",
       "es": "avance-primera-linea.html"
-    }
+    },
+    "evidence": [
+      {
+        "level": "community-crosschecked",
+        "lang": "it",
+        "label": "Last War Guide IT — Sfruttamento in prima linea",
+        "url": "https://lastwarguide.net/it/eventi/sfruttamento-in-prima-linea"
+      },
+      {
+        "level": "community-crosschecked",
+        "lang": "es",
+        "label": "Last War Guide ES — Avance de primera línea",
+        "url": "https://lastwarguide.net/es/eventos/avance-de-primera-linea"
+      }
+    ]
   },
   {
     "id": "ghost_ops",
@@ -1142,7 +1240,8 @@
       "en": "ghost-ops.html",
       "it": "operazioni-fantasma.html",
       "es": "operaciones-fantasma.html"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "secret_mobile",
@@ -1241,7 +1340,8 @@
       "checked": "2026-08-17",
       "source": "Last War Support FR/EN",
       "confidence": "official-partial-localized"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "total_mobilization",
@@ -1275,7 +1375,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "bounty_hunter",
@@ -1309,7 +1410,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "glittering_market",
@@ -1345,7 +1447,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "bullseye",
@@ -1379,7 +1482,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "ammo_bonanza",
@@ -1413,7 +1517,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "black_market",
@@ -1439,10 +1544,20 @@
       "es": []
     },
     "sourceLevel": "official-mixed",
-    "evidence": {
-      "it": "App Store IT, version 1.0.335 (19 Mar 2026)",
-      "es": "App Store ES, version 1.0.335 (19 Mar 2026)"
-    },
+    "evidence": [
+      {
+        "level": "official-localized-app",
+        "lang": "it",
+        "label": "App Store IT, version 1.0.335 (19 Mar 2026)",
+        "url": "https://apps.apple.com/it/app/last-war-survival/id6448786147"
+      },
+      {
+        "level": "official-localized-app",
+        "lang": "es",
+        "label": "App Store ES, version 1.0.335 (19 Mar 2026)",
+        "url": "https://apps.apple.com/es/app/last-war-survival/id6448786147"
+      }
+    ],
     "verification": {
       "checked": "2026-08-17"
     },
@@ -1494,7 +1609,8 @@
     "availability": {
       "scope": "recurring-post-season",
       "note": "Recurring celebration/off-season feature; schedule depends on edition."
-    }
+    },
+    "evidence": []
   },
   {
     "id": "age_of_oil",
@@ -1532,7 +1648,8 @@
     "availability": {
       "scope": "post-season-2-progression",
       "note": "Unlocked after Season 2 and then becomes permanent progression; not restarted after Season 6."
-    }
+    },
+    "evidence": []
   },
   {
     "id": "transfer_surge",
@@ -1568,7 +1685,8 @@
       "en": "transfer-surge.html",
       "it": "ondata-trasferimenti.html",
       "es": "oleada-transferencias.html"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "console_contest",
@@ -1602,7 +1720,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "energy_loot_quest",
@@ -1636,7 +1755,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "moonstone_blessing",
@@ -1670,7 +1790,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "hero_growth_bp",
@@ -1706,7 +1827,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "drone_training_bp",
@@ -1742,7 +1864,8 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   },
   {
     "id": "overlord_training_bp",
@@ -1778,6 +1901,7 @@
     },
     "verification": {
       "checked": "2026-08-17"
-    }
+    },
+    "evidence": []
   }
 ]

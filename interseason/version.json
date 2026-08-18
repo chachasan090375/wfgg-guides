@@ -13,6 +13,5 @@
       "es"
     ]
   },
-  "compatibility": "Static HTML/CSS/JS/JSON; Cloudflare Pages; no build step",
-  "notes": "Phase 7 production hardening; portal return links; reversible deployment kit."
+  "compatibility": "Static HTML/CSS/JS/JSON; Cloudflare Pages; no build step"
 }

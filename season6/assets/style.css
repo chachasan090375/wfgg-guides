@@ -396,3 +396,14 @@ h1{font-size:clamp(2.8rem,6vw,5.3rem);line-height:.96;letter-spacing:-.045em;mar
 /* WFGG_V19_4LANG_CONNECTOR */
 .lang,.lang-switch{flex-wrap:wrap}.lang a,.lang-switch a{white-space:nowrap}
 @media(max-width:640px){.lang a{padding:6px 7px;font-size:.72rem}}
+
+/* WfGg Direct V2 — four-language visual parity */
+.featured-section{padding-top:42px;padding-bottom:48px;background:linear-gradient(180deg,#071d38,#061a34)}
+.featured-section h2{font-size:clamp(2rem,5vw,3rem);margin-bottom:8px}
+.featured-home-grid{grid-template-columns:repeat(3,minmax(0,1fr));margin-top:24px}
+.featured-home-grid .visual-card{min-height:330px}
+.featured-more{display:flex;justify-content:center;margin-top:22px}
+.en .pagehero,.es .pagehero{background:linear-gradient(90deg,#082b52,#061a35)}
+.en .premium-row,.es .premium-row{background:#0c284b}
+@media(max-width:900px){.featured-home-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.featured-home-grid{grid-template-columns:1fr}.featured-home-grid .visual-card{min-height:360px}}

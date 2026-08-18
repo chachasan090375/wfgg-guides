@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#183d27"/><stop offset="1" stop-color="#0c2116"/></linearGradient></defs>
+<rect rx="30" width="420" height="160" fill="url(#g)" stroke="#557a5d" stroke-width="3"/>
+<circle cx="80" cy="80" r="48" fill="#b7e34b"/><text x="80" y="94" text-anchor="middle" font-family="Arial" font-size="48" font-weight="900" fill="#10210f">S6</text>
+<text x="150" y="72" font-family="Arial" font-size="29" font-weight="900" fill="#fff8e9">VOTRE LOGO</text>
+<text x="150" y="105" font-family="Arial" font-size="18" font-weight="700" fill="#f4c34d">sera intégré ici</text>
+</svg>
